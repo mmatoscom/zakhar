@@ -2,9 +2,9 @@
 
 ## About this repo
 
-This is my robotics project. I decided to make it more formal and fancy. Right now I have a lot of segmental parts of the project and I hope, all this formalisation and diagrams help me to build my robot with name Zakhar.
+This is my robotics project. I decided to make it more formal and structural. In open-hardware format. Right now I have a lot of separated parts of the project and I hope, all this formalization and diagrams help me to build my robot with name Zakhar.
 
-I will update this repo during the reorganization.
+I will be updating this repo during the reorganization.
 
 ## Concept
 
