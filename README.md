@@ -10,6 +10,6 @@ I will update this repo during the reorganization.
 
 ![slide1](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide1.png?raw=true)
 
-![slide2](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide1.png?raw=true)
+![slide2](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide2.png?raw=true)
 
-![slide3](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide1.png?raw=true)
+![slide3](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide3.png?raw=true)
