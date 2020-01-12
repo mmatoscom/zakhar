@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino-AVR",
+            "includePath": [
+                "C:\\Arduino\\libraries",
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Arduino\\packages\\arduino\\hardware\\avr\\1.6.21\\cores\\arduino\\Arduino.h",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}

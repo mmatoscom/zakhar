@@ -8,8 +8,8 @@ I will be updating this repo during the reorganization.
 
 ## Concept
 
-![slide1](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide1.png?raw=true)
+![slide1](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide1.png?raw=true)
 
-![slide2](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide2.png?raw=true)
+![slide2](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide2.png?raw=true)
 
-![slide3](https://github.com/dongrama/zakhar/blob/master/docs/concept_slide3.png?raw=true)
+![slide3](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide3.png?raw=true)
