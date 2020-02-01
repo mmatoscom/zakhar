@@ -13,3 +13,24 @@ I will be updating this repo during the reorganization.
 ![slide2](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide2.png?raw=true)
 
 ![slide3](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide3.png?raw=true)
+
+## License
+
+This work is licensed under the terms of the MIT license.
+
+For a copy, see: [LICENSE](LICENSE)
+
+- site:    https://agramakov.me
+- e-mail:  mail@agramakov.me
+
+## Support
+
+If you will decide to sopport me, you can send some pretty words on my email or just use the link
+
+[Buy me a cup of tea](https://paypal.me/4ndr/1eur)
+
+Any ammount will motivate me to develop the project. Thanks in advance!
+
+## Todo
+
+[Trello card](https://trello.com/c/bzF5YFop/3-zakhar)
