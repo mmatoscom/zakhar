@@ -16,7 +16,7 @@ I will be updating this repo during the reorganization.
 
 ## License
 
-This work is licensed under the terms of the MIT license.
+This work is licensed under the terms of the GPLv3 license.
 
 For a copy, see: [LICENSE](LICENSE)
 
