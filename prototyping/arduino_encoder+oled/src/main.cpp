@@ -13,6 +13,19 @@
 
 Adafruit_SSD1306 display(-1);
 
+typedef struct{
+    int left_encoder_pin;
+    int right_encoder_pin;
+    bool r_direction;
+    bool l_direction;
+    uint8_t rc;
+    uint8_t lc;
+    uint32_t debounce_filter_ms;
+} Encoders_t;
+
+Encoders_t enc1;
+
+
 int left_encoder_pin = 2;  // pulse output from the module
 int right_encoder_pin = 3; // pulse output from the module
 
@@ -64,6 +77,9 @@ void setup()
     pinMode(right_encoder_pin, INPUT);
     attachInterrupt(digitalPinToInterrupt(left_encoder_pin), left_encoder_int, FALLING);
     attachInterrupt(digitalPinToInterrupt(right_encoder_pin), right_encoder_int, FALLING);
+    enc1.left_encoder_pin=2;
+    enc1.right_encoder_pin=3;
+    enc1.debounce_filter_ms =10;
     // display
     display.begin(SSD1306_SWITCHCAPVCC, 0x3C);  // initialize with the I2C addr 0x3C (for the 128x32)
     display.clearDisplay();

@@ -1,8 +1,0 @@
-Arduino:
- ✔ Keypad @done (18-12-12 16:43)
- ✔ I2C slave @done (18-12-12 16:43)
-STM32:
- ☐ Zakhar ID class
- ☐ I2C master
- ☐ Abstract CMD functions
- ☐ Accelerometer
