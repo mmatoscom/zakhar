@@ -1,0 +1,6 @@
+[submodule "prototyping/arduino_motors/hw_motors"]
+	path = prototyping/arduino_motors/lib/hw_motors
+	url = git@github.com:an-dr/hw_motors.git
+[submodule "prototyping/arduino_encoder+oled/lib/RotSensor"]
+	path = prototyping/arduino_encoder+oled/lib/RotSensor
+	url = git@github.com:an-dr/RotSensor.git
