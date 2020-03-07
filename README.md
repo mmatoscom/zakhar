@@ -2,17 +2,69 @@
 
 ## About this repo
 
-This is my robotics project. I decided to make it more formal and structural. In open-hardware format. Right now I have a lot of separated parts of the project and I hope, all this formalization and diagrams help me to build my robot with name Zakhar.
+Zakhar is a robotics UX project. The main aim is to decrease the anxiety of users interacting with a robot.
 
-I will be updating this repo during the reorganization.
+**Assumed**: that the humans can interact the most effective and seamless with other living creatures
 
-## Concept
+**Suggested**: to develop a robot's program structure in the way when basics of its logic are understandable from the robot's behavior. The behavior should mimic the animal one (as the human is an animal too).
 
-![slide1](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide1.png?raw=true)
+Suggested to split the program into three parts:
 
-![slide2](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide2.png?raw=true)
+- Conscious
+- Unconscious
+- Reflexes
 
-![slide3](https://github.com/an-dr/zakhar/blob/master/docs/concept_slide3.png?raw=true)
+**Conscious** represents simple intentions: move forward, sleep, run away, search something, etc.
+
+**Unconscious** is responsible to solve how to realize those intentions: what to do for moving, how to behave if looking something etc.
+
+**Reflexes** are small algorithms that can monopolize Unconscious from Conscious in some very explicit situations. E.g panic and fear if something breaking, convulsions if robot stuck and can't move as the conscious tells
+
+## Related repos
+
+Parts:
+
+- [an-dr/zakhar-face-module: Zakhar's part which is responsible for facial expressions](https://github.com/an-dr/zakhar-face-module)
+- [an-dr/zakhar_faces: Zakhar's facial expressions](https://github.com/an-dr/zakhar_faces)
+- [an-dr/zakhar_proto: Repository for expreriments and prototyping. Part of the Zakhar project](https://github.com/an-dr/zakhar_proto)
+- [an-dr/zakhar_platform: Controlled from i2c and uart moving platform for zakhar](https://github.com/an-dr/zakhar_platform)
+
+Demos:
+
+- [an-dr/zakhar_demo1_reptile: The demo shows how unconditioned reflex on fast moving shadows affects to robot's behavior](https://github.com/an-dr/zakhar_demo1_reptile)
+
+Experiments:
+
+- [an-dr/r_giskard: Small project for experiments with unconditioned and conditioned reflexes](https://github.com/an-dr/r_giskard)
+
+## Related articles
+
+- [2019/06/01 - Zakhar’s Concept – technical_](https://blog.agramakov.me/2019/06/01/zakhars-concept/)
+- [2019/05/05 - Zakhar relaunch: Zakha_ros – technical_](https://blog.agramakov.me/2019/05/05/zakhar-relaunch-zakha_ros/)
+- [2019/01/10 - Zakhar the Robot – technical_](https://blog.agramakov.me/2019/01/10/zakhar-the-robot/)
+
+## Milestones
+
+1. [Reptile demo](https://github.com/an-dr/zakhar_demo1_reptile)
+    - Afraid of birds
+    - Panics when afraid
+2. Facial Emotions demo
+    - Expresses fear if panics
+    - Claustrophobia - sad if closed barrier
+3. The heat of passion demo
+    - If got hitten weak - angry
+    - If got hitten strong - panics
+4. Zakha_ros1 . Includes:
+    4.1 Zakha_ros - reptile
+    4.2 Zakha_ros - expression
+    4.3 Zakha_ros - passion
+
+### Future plans
+
+- Zakha_rosV
+    - Visual recognition
+- ZakhaR.Giskard
+    - Conditional and unconditional reflexes
 
 ## License
 
