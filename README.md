@@ -24,6 +24,7 @@ Suggested to split the program into three parts:
 
 Parts:
 
+- [an-dr/zakhar_core: Software core for the Zakhar project](https://github.com/an-dr/zakhar_core)
 - [an-dr/zakhar-face-module: Zakhar's part which is responsible for facial expressions](https://github.com/an-dr/zakhar-face-module)
 - [an-dr/zakhar_faces: Zakhar's facial expressions](https://github.com/an-dr/zakhar_faces)
 - [an-dr/zakhar_proto: Repository for expreriments and prototyping. Part of the Zakhar project](https://github.com/an-dr/zakhar_proto)
