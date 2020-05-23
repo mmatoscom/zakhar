@@ -54,7 +54,7 @@ Experiments:
 
 ## Milestones
 
-1. Reptile demo
+1. [Reptile demo](https://github.com/an-dr/zakhar/releases/tag/reptile_demo)
     - Afraid of birds
     - Panics when afraid
 2. Zakharos - moving the core to the [ROS](https://www.ros.org/)
