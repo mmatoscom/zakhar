@@ -1,6 +1,6 @@
 # zakhar
 
-## About this repo
+## About
 
 Zakhar is a robotics UX project. The main aim is to decrease the anxiety of users interacting with a robot.
 
@@ -18,7 +18,7 @@ Suggested to split the program into three parts:
 
 **Unconscious** is responsible to solve how to realize those intentions: what to do for moving, how to behave if looking something etc.
 
-**Reflexes** are small algorithms that can monopolize Unconscious from Conscious in some very explicit situations. E.g panic and fear if something breaking, convulsions if robot stuck and can't move as the conscious tells.
+**Reflexes** are small algorithms that can monopolize Unconscious from Conscious in some very explicit situations. E.g. panic and fear if something breaking, convulsions if robot stuck and can't move as the conscious tells.
 
 ## Gears
 
@@ -37,10 +37,7 @@ Parts:
 - [an-dr/zakhar_faces: Zakhar's facial expressions](https://github.com/an-dr/zakhar_faces)
 - [an-dr/zakhar_proto: Repository for expreriments and prototyping. Part of the Zakhar project](https://github.com/an-dr/zakhar_proto)
 - [an-dr/zakhar_platform: Controlled from i2c and uart moving platform for zakhar](https://github.com/an-dr/zakhar_platform)
-
-Demos:
-
-- [an-dr/zakhar_demo1_reptile: The demo shows how unconditioned reflex on fast moving shadows affects to robot's behavior](https://github.com/an-dr/zakhar_demo1_reptile)
+- [an-dr/zakhar_sensors: Sensors implementation for the Zakhar Project](https://github.com/an-dr/zakhar_sensors)
 
 Experiments:
 
@@ -83,12 +80,15 @@ For a copy, see: [LICENSE](LICENSE)
 
 ## Support
 
-If you will decide to sopport me, you can send some pretty words on my email or just use the link
+If you will decide to support me, you can send some pretty words on my email or just use the link
 
-[Buy me a cup of tea](https://paypal.me/4ndr/1eur)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/4ndr/1eur)
 
 Any ammount will motivate me to develop the project. Thanks in advance!
 
-## Todo
+## Links
 
-[Trello card](https://trello.com/c/bzF5YFop/3-zakhar)
+- [Official site (on GutHub)](http://zakhar.agramakov.me/)
+- [Project on hackster.io](https://www.hackster.io/an-dr/zakhar-the-robot-0d8744)
+- [Instagram](https://www.instagram.com/zakhar_the_robot/)
+<!-- - [Project on hackaday.io](https://hackaday.io/project/171888-zakhar-the-robot) -->
