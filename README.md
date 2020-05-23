@@ -18,7 +18,15 @@ Suggested to split the program into three parts:
 
 **Unconscious** is responsible to solve how to realize those intentions: what to do for moving, how to behave if looking something etc.
 
-**Reflexes** are small algorithms that can monopolize Unconscious from Conscious in some very explicit situations. E.g panic and fear if something breaking, convulsions if robot stuck and can't move as the conscious tells
+**Reflexes** are small algorithms that can monopolize Unconscious from Conscious in some very explicit situations. E.g panic and fear if something breaking, convulsions if robot stuck and can't move as the conscious tells.
+
+## Gears
+
+The hugest parts of the project called gears. Currently there are 4 gears:
+- zakhar_sensors
+- zakhar-face-module
+- zakhar_core
+- zakhar_platform
 
 ## Related repos
 
@@ -46,19 +54,16 @@ Experiments:
 
 ## Milestones
 
-1. [Reptile demo](https://github.com/an-dr/zakhar_demo1_reptile)
+1. Reptile demo
     - Afraid of birds
     - Panics when afraid
-2. Facial Emotions demo
+2. Zakharos - moving the core to the [ROS](https://www.ros.org/)
+3. Facial Emotions demo
     - Expresses fear if panics
     - Claustrophobia - sad if closed barrier
-3. The heat of passion demo
+4. The heat of passion demo
     - If got hitten weak - angry
     - If got hitten strong - panics
-4. Zakha_ros1 . Includes:
-    4.1 Zakha_ros - reptile
-    4.2 Zakha_ros - expression
-    4.3 Zakha_ros - passion
 
 ### Future plans
 
